@@ -1,0 +1,22 @@
+header img {
+  width: 100px;
+}
+
+.header-nav {
+  float: right
+}
+
+.header-nav ul li {
+  display: inline;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid red;
+}
+h1 {
+  text-align: center;
+  background: red;
+  color:white;
+}
+footer {
+  text-align: center;
+}
